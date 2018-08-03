@@ -1,5 +1,5 @@
 <?php
 	
-	echo "teste 1234";
+	echo "ola mundo ";
 
 ?>
